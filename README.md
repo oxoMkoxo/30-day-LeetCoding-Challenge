@@ -9,4 +9,5 @@
 7. [Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
 
 ## B. Week 2
-1. 
+1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+2. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
