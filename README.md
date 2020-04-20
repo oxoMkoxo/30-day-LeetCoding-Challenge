@@ -12,3 +12,4 @@
 1. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 2. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 3. [Min Stack](https://leetcode.com/problems/min-stack/)
+4. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
