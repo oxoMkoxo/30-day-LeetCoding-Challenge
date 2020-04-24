@@ -16,3 +16,6 @@
 5. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 6. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 7. [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
+
+## C. Week 3
+1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
