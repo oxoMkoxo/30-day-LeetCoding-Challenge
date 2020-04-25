@@ -19,3 +19,4 @@
 
 ## C. Week 3
 1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+2. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
