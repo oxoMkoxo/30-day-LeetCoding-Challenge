@@ -20,3 +20,4 @@
 ## C. Week 3
 1. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 2. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+3. [Number of Islands](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/)
