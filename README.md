@@ -22,3 +22,4 @@
 2. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 3. [Number of Islands](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/)
 4. [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/)
+5. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
