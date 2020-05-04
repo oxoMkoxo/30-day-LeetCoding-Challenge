@@ -29,3 +29,4 @@
 ## D. Week 4
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 2. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+3. [LRU Cache](https://leetcode.com/problems/lru-cache/)
