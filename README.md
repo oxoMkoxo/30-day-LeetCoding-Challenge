@@ -31,3 +31,4 @@
 2. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 3. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 4. [Jump Game](https://leetcode.com/problems/jump-game/)
+5. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
