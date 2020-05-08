@@ -1,4 +1,4 @@
-# 30-Day LeetCoding Challenge
+# [30-Day LeetCoding Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
 ## A. Week 1
 1. [Single Number](https://leetcode.com/problems/single-number/)
 2. [Happy Number](https://leetcode.com/problems/happy-number/)
@@ -32,3 +32,4 @@
 3. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 4. [Jump Game](https://leetcode.com/problems/jump-game/)
 5. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+6. [Maximal Square](https://leetcode.com/problems/maximal-square/)
