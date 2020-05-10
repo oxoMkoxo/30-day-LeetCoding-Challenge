@@ -18,7 +18,6 @@
  */
 import java.util.Scanner;
 
-import cruxday21_24july_BT.BinaryTree.Node;
 
 public class ConstructBinarySearchTreeFromPreorderTraversal {
 

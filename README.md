@@ -34,3 +34,6 @@
 5. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 6. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 7. [First Unique Number](https://leetcode.com/problems/first-unique-number/)
+
+## E. Week 5
+1. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
